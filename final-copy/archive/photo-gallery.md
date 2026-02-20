@@ -1,0 +1,49 @@
+# Final Copy: photo-gallery
+
+- Source URL: https://beerexpo.kr/PHOTOGALLERY
+- Final URL: https://beerexpo.kr/PHOTOGALLERY
+- Category: Gallery
+- Title: Error 404 (Not Found)
+- H1: N/A
+- Status: Final
+- Updated: 2026-02-20
+
+## Hero
+현장 분위기와 브랜드 존재감을 사진/콘텐츠로 확인하세요.
+
+## 핵심 요약
+- 행사 현장 사진 아카이브 제공
+- 연도/테마 기준으로 콘텐츠 탐색 가능
+- 참가 분위기와 운영 규모를 직관적으로 확인
+
+## 참석자별 안내
+### 참가사
+- 비즈니스 기회와 브랜드 노출 관점에서 핵심 정보를 빠르게 확인할 수 있습니다.
+
+### 바이어
+- 참가사/프로그램 정보를 기반으로 상담 및 방문 동선을 효율적으로 구성할 수 있습니다.
+
+### 참관객
+- 일정/입장/프로그램 중심으로 관람 계획을 단순하게 세울 수 있습니다.
+
+## 상세 안내
+### 콘텐츠 구성
+- 포토/영상/SNS 하이라이트 분리 제공
+
+### 운영 정책
+- 저작권/초상권 및 아카이브 표기 규칙 적용
+
+## CTA
+- 1차: 포토 갤러리 보기 (`/PHOTOGALLERY`)
+- 2차: SNS 보기 (`/SNS_`)
+- 3차: 문의하기 (`/CONTACTUS`)
+
+## SEO Draft
+- Title: Error 404 (Not Found)
+- Description: KIBEX 2026 Gallery 페이지 핵심 정보를 확인하고 필요한 행동으로 바로 이동하세요.
+- Keywords: KIBEX 2026, 대한민국맥주박람회, Gallery, 참가안내, 관람안내, 프로그램
+
+## 검수 메모
+- 최신성 점검: 일정/마감/요금/장소는 운영 공지 최신본 기준으로 확정
+- 연도 정책: 과거 데이터는 전년도 기준 또는 아카이브 라벨로만 노출
+- 운영 점검: CTA 라우트/문의 채널/신청 링크 정상 동작 확인
