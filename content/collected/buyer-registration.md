@@ -1,0 +1,47 @@
+# Collected: buyer-registration
+
+- Source URL: https://beerexpo.kr/BUYERREGISTRATION
+- Final URL: https://beerexpo.kr/BUYERREGISTRATION
+- Title: 바이어 등록
+- Collected At: 2026-02-20
+- Extraction Method: widget_text_wrap
+
+## Headings (H1/H2/H3)
+KIBEX
+
+## Extracted Body Text (Cleaned)
+바이어 등록
+맥주 및 음료 산업의 트렌드를 선도하는
+최적의 글로벌 비즈니스 플랫폼
+ 바이어 등록 
+맥주 및 음료 산업의 트렌드를 선도하는 최적의 글로벌 비즈니스 플랫폼
+제 8회 대한민국맥주박람회
+(KIBEX 2026) 
+바이어 사전등록
+대한민국맥주박람회(KIBEX)
+에 비즈니스 목적으로 방문 예정이십니까? 업계 종사자 및 바이어로 방문 예정이신 바이어 분들은 
+사전등록
+을
+ 
+통해 
+무료 입장 기회
+와 더불어 
+비즈니스 상담회 참가 기회
+ 등 특별한 혜택을 받으실 수 있습니다.
+제 8회 대한민국맥주박람회 (KIBEX 2026)
+비즈니스 바이어 사전등록
+에 비즈니스 목적으로 방문 예정이십니까?
+업계 종사자 및 바이어로 방문 예정이신 바이어 분들은 
+을 통해 
+와
+더불어 
+기본정보
+※  상기 사항 중 변동사항 발생 시, KIBEX 사무국으로 즉시 통보해 주시기 바랍니다.
+추가정보
+※ 중복 응답 가능
+상기 사항 중 변동사항 발생 시, KIBEX
+사무국으로 즉시 통보해주시기 바랍니다.
+※ 중복 응답 가능 
+TEL. 02-565-0501
+FAX. 02-564-0501
+E-mail. koreabeerexpo@gmail.com

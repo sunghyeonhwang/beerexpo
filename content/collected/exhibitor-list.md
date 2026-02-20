@@ -1,0 +1,219 @@
+# Collected: exhibitor-list
+
+- Source URL: https://beerexpo.kr/EXHIBITORLIST
+- Final URL: https://beerexpo.kr/EXHIBITORLIST
+- Title: 참가업체 리스트
+- Collected At: 2026-02-20
+- Extraction Method: main_fallback
+
+## Headings (H1/H2/H3)
+KIBEX
+
+## Extracted Body Text (Cleaned)
+EXHIBITOR LIST
+KIBEX, THE ULTIMATE PLACE WHERE ALL BEER PEOPLE MEETS!
+2026
+2025
+2024
+2023
+2022
+2021
+화수브루어리
+카페인신현리
+YAKIMA CHIEF HOPS
+안톤파 코리아
+마이비어
+부자진
+감자아일랜드
+더홋브루어리
+제이엘 오미나
+카브루
+댄싱사이더 컴퍼니
+라인도이치
+비욘드 컴퍼니
+비어로
+매직트리브루어리
+아리랑브루어리
+꼬마루
+로버스텍
+한생오퍼스
+BOORTMALT
+HMEZAD
+TOTALLY NATURAL SOLUTIONS
+아트몬스터
+CFT GROUP
+ROLEC
+COMAC
+버블케미스트리
+WEYERMANN® SPECIALTY MALTS
+화이트 크로우 브루잉 컴퍼니
+펀더멘탈브루잉
+동두천브루어리
+서울효모방
+동원테크
+윈비어
+바이오크래프트
+부족한녀석들
+비티알커머스
+브루소스인터내셔널
+GAI MACCHINE SPA
+KASPAR SCHULZ
+ESAU & HUEBER
+PETAINER
+신한산업
+바운티에스앤비
+생극양조
+머거
+QINGDAO BAIXI INDUSTRY
+BRAUKON GMBH
+CAMBA BAVARIA GMBH
+솔디자인
+더 더치 치즈앤모
+FERMENTIS – DIVISION OF S. I. LESAFFRE
+로브이 코리아
+주한캐나다대사관
+앨버타 주정부
+브리티시 컬럼비아주 한국대표부
+AUTHENTIC SEACOAST COMPANY
+DISTILLERIE MARIANA
+DUNROBIN DISTILLERIES
+OFF THE RAIL BREWING
+SHELTER POINT DISTILLERY CORPORATION 
+TROUBLED MONK BREWERY
+PACRIM DISTRIBUTORS
+RUSSELL BREWING COMPANY 
+SALTBOX BREWING COMPANY
+NIAGARA FALLS CRAFT DISTILLERS
+GOOD MOOD BREWERY
+BLINDMAN BREWING
+MACALONEY’S ISLAND DISTILLERY
+세븐브로이맥주
+더테이블브루잉컴퍼니
+초록곰맥주
+JINAN RAINBOW MACHINERY
+라사그라코리아
+군산시농업기술센터
+인천맥
+도취
+앤써
+AVANGARD MALZ
+의진
+어반나이프
+주한미국대사관 농업무역관
+미국양조자협회
+903 BREWERS
+ALESMITH BREWING COMPANY
+BEAR REPUBLIC BREWING
+BREAKSIDE BREWERY
+BELCHING BEAVER BREWERY
+CALICRAFT BREWING COMPANY
+CORONADO BREWING COMPANY
+CRAFT ‘OHANA - MAUI BREWING
+CRAFT ‘OHANA - MODERN TIMES
+CRUZ BLANCA BREWERY
+DC BRAU BREWING
+DESCHUTES BREWERY
+DESTIHL BREWERY
+DRAKE'S BREWING COMPANY
+FIFTYFIFTY BREWING
+FREMONT BREWING COMPANY
+HARDYWOOD PARK CRAFT BREWERY
+HEAVY RIFF BREWING COMPANY
+HERETIC BREWING
+JOLLY PUMPKIN ARTISAN ALES
+KNEE DEEP BREWING COMPANY
+MELVIN BREWING COMPANY
+MILL HOUSE BREWING
+MOTHER EARTH BREWING
+NEW HOLLAND BREWING COMPANY
+NO-LI BREWHOUSE
+OREGON BREWING COMPANY DBA ROGUE ALES
+OSKAR BLUES BREWERY
+PARADOX BREWERY 
+SCUTTLEBUTT BREWING
+SIERRA NEVADA BREWING
+THE VIRGINIA BEER COMPANY
+TWO ROOTS BREWING
+UPSLOPE BREWING
+URBAN ARTIFACT
+21ST AMENDMENT BREWING
+원 월드 비어
+하이파이브 엘앤비
+브루마스터스 인터내셔널
+크리스터
+인터비어 코리아
+파이21
+포유 코리아
+에이티엘 코리아
+플레넘
+비어바나
+플랑슈
+LEHUI INTERNATIONAL
+안동브루잉컴퍼니
+끽비어컴퍼니
+부각마을
+영신팩
+SHANGDONG TIANTAI BEER EQUIPMENT
+한국양조기술
+종로양조
+케이홉스 유통지원센터
+홍천홉재배
+금주협의회
+페어리플레이
+주룩주룩
+제3양조
+오티오티 술도가
+틴틴
+홀리워터
+방드폴리
+신세계엘앤비
+백년주조
+수도산와이너리
+옥수주조
+담은
+아쿠아티르
+플레토로보틱스
+피피케이글로벌
+리엔케이
+차르와인
+심도주류
+로렌츄컴퍼니
+게르츠코리아
+TALOS
+애플파파
+조흔 와이너리
+위 와이너리
+고도리 와이너리
+뱅꼬레 와이너리
+우아미 와이너리
+264청포도
+금계당
+명인 안동소주
+진맥소주
+임하양조
+삼오전통주
+한국수제맥주협회
+더랜치브루잉
+몽트비어
+브루원
+바네하임브루어리
+앰비션브루어리
+크래프트루트
+올빈와인
+쉐어위드W&L
+해미읍성 딸기와인
+마미와이너리
+낭만부부
+단송코리아
+올댓마눌
+<![CDATA[{
+    "@context": "https://schema.org",
+    "@type": "ImageObject",
+    "contentUrl": "https://cdn.imweb.me/thumbnail/20250911/dfbfa0a9ae22e.jpg"
+}]]>
+The terms of service
+|
+Privacy policy
+TEL. 02-565-0501
+FAX. 02-564-0501
+E-mail. koreabeerexpo@gmail.com
