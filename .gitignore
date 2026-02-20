@@ -1,1 +1,6 @@
 .DS_Store
+
+# PowerPoint 임시 파일
+~$*.pptx
+~$*.xlsx
+~$*.docx
