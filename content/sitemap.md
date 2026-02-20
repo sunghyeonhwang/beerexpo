@@ -18,6 +18,8 @@
 2. Exhibitors
 - [exhibitors-landing](content/exhibitors-landing.md) - 리다이렉트(→ HOWTOAPPLY)
 - [how-to-apply](content/how-to-apply.md) - 완료
+- [pairing-special](content/pairing-special.md) - 완료
+- [exhibitor-application](content/exhibitor-application.md) - 완료
 - [sponsorship-program](content/sponsorship-program.md) - 완료
 - [application-download](content/application-download.md) - 완료
 - [promotional-kit](content/promotional-kit.md) - 완료

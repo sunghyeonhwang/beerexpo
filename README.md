@@ -40,13 +40,13 @@
 - 성격: 기획 문서(디자인 제외)
 - 주요 파일:
   - `planning/front-page.md` (메인 페이지 기획/카피 초안)
-  - 페이지별 계획서 32개 (`how-to-apply.md`, `kibex2026.md` 등)
+  - 페이지별 계획서 34개 (`how-to-apply.md`, `kibex2026.md`, `pairing-special.md`, `exhibitor-application.md` 등)
   - `planning/README.md` (포맷 설명)
 
 ## `final-copy/`
 - 성격: 배포용 카피 초안(페이지별 `Status: Final`)
 - 구성:
-  - 페이지별 파일 32개
+  - 페이지별 파일 34개
   - `final-copy/README.md` (패키지 설명)
 - 특징:
   - `Category` 메타 포함

@@ -31,15 +31,20 @@
 - 공개 API: 신청 제출, 접수 확인
 - 관리자 API: 신청 검토/상태 변경
 
-5. `CONTACTUS`
+5. `EXHIBITORAPPLICATION` / `PAIRINGSPECIAL`
+- 필요 기능: 일반 참가신청/특별관 참가신청 접수, 할인 조건 검증, 납부 상태 관리
+- 공개 API: 신청 제출, 접수 확인
+- 관리자 API: 신청 검토/상태 변경, 특별관 구분 처리
+
+6. `CONTACTUS`
 - 필요 기능: 문의 접수, 유형 분류, 담당자 할당, 응답 이력
 - 공개 API: 문의 제출
 - 관리자 API: 상태/담당자/응답 기록
 
 ## B. 조건부
-1. `APPLICATIONDOWNLOAD` / `PROMOTIONALKIT`
+1. `APPLICATIONDOWNLOAD` / `PROMOTIONALKIT` / `SPONSORSHIPPROGRAM`
 - 단순 정적 링크면 불필요
-- 문서 버전관리/권한/다운로드 로그 필요 시 백엔드 필요
+- 문서/패키지 버전관리, 권한, 다운로드 로그, 스폰서십 문의 리드 관리 필요 시 백엔드 필요
 
 2. `PROGRAM` 하위
 - 소개 전용 정적 페이지면 불필요
